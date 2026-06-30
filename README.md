@@ -1,13 +1,13 @@
 # 🎓 DocuGraph: Agentic Thesis Architect
 
-<div>
+
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/LangGraph-Stateful-blueviolet.svg)](https://github.com/langchain-ai/langgraph)
 [![Agents](https://img.shields.io/badge/agno-2.6.20%2B-indigo.svg)](https://github.com/agno-ai/agno)
 [![UI](https://img.shields.io/badge/Streamlit-1.58%2B-FF4B4B.svg)](https://streamlit.io/)
 [![Database](https://img.shields.io/badge/ChromaDB-1.5.9%2B-orange.svg)](https://github.com/chroma-core/chroma)
 [![Inference](https://img.shields.io/badge/Ollama-Local-black.svg)](https://ollama.com/)
-</div>
+
 
 <img width="2752" height="1536" alt="DocuGraph Banner" src="https://github.com/user-attachments/assets/991489a7-b8f5-4154-9a4d-197d9971ce5f" />
 

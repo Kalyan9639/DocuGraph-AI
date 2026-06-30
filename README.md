@@ -1,7 +1,5 @@
 # 🎓 DocuGraph: Agentic Thesis Architect
 
-<img width="2752" height="1536" alt="DocuGraph Banner" src="https://github.com/user-attachments/assets/991489a7-b8f5-4154-9a4d-197d9971ce5f" />
-
 <div>
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/LangGraph-Stateful-blueviolet.svg)](https://github.com/langchain-ai/langgraph)
@@ -10,6 +8,9 @@
 [![Database](https://img.shields.io/badge/ChromaDB-1.5.9%2B-orange.svg)](https://github.com/chroma-core/chroma)
 [![Inference](https://img.shields.io/badge/Ollama-Local-black.svg)](https://ollama.com/)
 </div>
+
+<img width="2752" height="1536" alt="DocuGraph Banner" src="https://github.com/user-attachments/assets/991489a7-b8f5-4154-9a4d-197d9971ce5f" />
+
 
 Transform raw project notes, draft readmes, or research papers into structured, high-quality B.Tech/M.Tech university thesis documents in Microsoft Word format. Under the hood, this system uses a stateful **LangGraph Orchestrator-Worker** workflow, **ChromaDB** for context-aware RAG retrieval, and **Ollama** for private, local LLM generation.
 

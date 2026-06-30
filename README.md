@@ -1,5 +1,8 @@
 # 🎓 DocuGraph: Agentic Thesis Architect
 
+<img width="2752" height="1536" alt="DocuGraph Banner" src="https://github.com/user-attachments/assets/991489a7-b8f5-4154-9a4d-197d9971ce5f" />
+
+
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/LangGraph-Stateful-blueviolet.svg)](https://github.com/langchain-ai/langgraph)
 [![Agents](https://img.shields.io/badge/agno-2.6.20%2B-indigo.svg)](https://github.com/agno-ai/agno)

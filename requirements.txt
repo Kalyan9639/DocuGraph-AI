@@ -1,0 +1,7 @@
+agno
+openai
+ollama
+chromadb
+streamlit
+PyPDF2
+git+https://github.com/Kalyan9639/Markdown-Parser-4-AI.git

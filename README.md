@@ -7,6 +7,9 @@
 [![Database](https://img.shields.io/badge/ChromaDB-1.5.9%2B-orange.svg)](https://github.com/chroma-core/chroma)
 [![Inference](https://img.shields.io/badge/Ollama-Local-black.svg)](https://ollama.com/)
 
+<img width="2752" height="1536" alt="Gemini_Generated_Image_dnrumwdnrumwdnru" src="https://github.com/user-attachments/assets/a0505ad1-6724-4e47-a9a6-2b070d417d6d" />
+
+
 Transform raw project notes, draft readmes, or research papers into structured, high-quality B.Tech/M.Tech university thesis documents in Microsoft Word format. Under the hood, this system uses a stateful **LangGraph Orchestrator-Worker** workflow, **ChromaDB** for context-aware RAG retrieval, and **Ollama** for private, local LLM generation.
 
 ---

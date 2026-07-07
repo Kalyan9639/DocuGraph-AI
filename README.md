@@ -1,4 +1,4 @@
-# 🎓 DocuGraph: Agentic Thesis Architect
+# 🎓 DocuGraph: AI Powered Project Documentation Architect
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/LangGraph-Stateful-blueviolet.svg)](https://github.com/langchain-ai/langgraph)

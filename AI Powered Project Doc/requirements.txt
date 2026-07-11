@@ -7,4 +7,5 @@ PyPDF2
 onnxruntime
 tokenizers
 numpy
+langgraph
 git+https://github.com/Kalyan9639/Markdown-Parser-4-AI.git

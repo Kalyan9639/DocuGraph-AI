@@ -1,0 +1,21 @@
+[project]
+name = "ai-powered-business-analyst"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agno>=2.6.20",
+    "chromadb>=1.5.9",
+    "markdown-parser",
+    "ollama>=0.6.2",
+    "pypdf2>=3.0.1",
+    "streamlit>=1.58.0",
+    "langgraph",
+    "onnxruntime>=1.16.0",
+    "tokenizers>=0.19.0",
+    "numpy>=1.24.0",
+]
+
+[tool.uv.sources]
+markdown-parser = { git = "https://github.com/Kalyan9639/Markdown-Parser-4-AI.git" }

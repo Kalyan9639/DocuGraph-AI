@@ -61,7 +61,7 @@ To speed up local execution and prevent memory swapping/resource contention on c
 Clone the repository and set up a virtual environment:
 ```bash
 # Setup virtual environment using uv
-uv venv
+uv venv .venv
 .venv\Scripts\activate
 
 # Install dependencies (includes langgraph)
